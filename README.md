@@ -6,13 +6,13 @@ Takes user name as input
 
 Displays categorized menu card:
 
-Indian Soups
+1. Indian Soups
 
-Chinese Soups
+2. Chinese Soups
 
-Starters
+3. Starters
 
-Main Menu
+4. Main Menu
 
 User selects individual items from each menu
 
