@@ -66,6 +66,16 @@ Prasad
 ...
 Total Bill Amount (including 18% GST) is = 260.4$
 **********  Thank You For Visiting Our Hotel **********
+
+
+## screenshot images
+
+>  ![  first image ](images/firstImage.jpeg)
+> 
+
+> >  ![  input missmatch error   ](images/inputmissmatch.jpeg)
+
+
 🚀 Future Enhancements
 ✅ Add validations for incorrect inputs.
 
